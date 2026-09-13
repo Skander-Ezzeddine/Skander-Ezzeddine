@@ -15,9 +15,8 @@
 🧠 Practicing daily &amp; building projects  
 🌐 Next Road: Back-End development!
 
-🌱 &nbsp;I'm currently learning **Javascript (js code) and some of Css**  
-🤔 &nbsp;I'm looking for help with **Some of css commands**  
-💬 &nbsp;Ask me about **Html and Css and Javascript**
+🌱 &nbsp;I'm currently learning **Javascript (js code) and some of Tailwind css**  
+💬 &nbsp;Ask me about **Html and CSS and Tailwind CSS**
 
 ### 🛠️ Tech Stack
 
